@@ -98,7 +98,11 @@ kyura01@github:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kyura01/Kyura01/output/snake-dark.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyura01/Kyura01/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyura01/Kyura01/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Kyura01/Kyura01/output/pacman-contribution-graph-dark.svg" alt="Pacman eating my contribution graph" width="98%" />
+</picture>
 
 </div>
 
